@@ -9,4 +9,4 @@ at the sample's root folder
 
 Enjoy !! ;) :)
 
-P.S.: this project is created to answer Sada at https://users.scala-lang.org/t/scala-json-parser/4500
+P.S.: this project is created to answer Tushar Pandit at https://users.scala-lang.org/t/storing-hashmap-to-consul-using-scala/4689
